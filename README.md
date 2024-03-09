@@ -26,6 +26,7 @@ This Addon was tested on following platfoms (see branch compatibility on GitHub)
 | Matrix - 19.5   | LibreELEC-RPi4.arm-10.0.4 | RasPi v4 model B with 4GB  |   Y   |  py3   |       |
 | Nexus - 20.3    | LibreELEC-RPi4.arm-11.0.6 | RasPi v4 model B with 4GB  |   Y   |  py3   |       |
 | Nexus - 20.3    | LibreELEC-RPi5.arm-11.0.6 | RasPi v5 with 4GB          |   Y   |  py3   |       |
+| Nexus - 20.3    | LibreElec-RPi2.arm-11.0.6 | RasPi v3 model B with 1GB  |   Y   |  py3   |       |
 
 
 If anyone tests this Addon on other HW platforms / SW distribution, I'll insert into list
